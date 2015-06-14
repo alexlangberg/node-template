@@ -7,4 +7,4 @@
 [![Dependency Status](https://david-dm.org/alexlangberg/node-TEMPLATE.svg)](https://david-dm.org/alexlangberg/node-TEMPLATE)
 [![devDependency Status](https://david-dm.org/alexlangberg/node-TEMPLATE/dev-status.svg)](https://david-dm.org/alexlangberg/node-TEMPLATE#info=devDependencies)
 
-Just a template for node projects.
+Just a template for node.js projects.

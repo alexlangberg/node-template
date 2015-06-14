@@ -1,0 +1,31 @@
+{
+  "name": "TEMPLATE",
+  "version": "0.0.1",
+  "private": true,
+  "description": "TEMPLATE",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "TEMPLATE"
+  ],
+  "author": "Alex Langberg",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexlangberg/node-TEMPLATE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexlangberg/node-TEMPLATE/issues"
+  },
+  "homepage": "https://github.com/alexlangberg/node-TEMPLATE",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
